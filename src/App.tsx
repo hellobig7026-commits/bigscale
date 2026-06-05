@@ -437,17 +437,7 @@ export default function App() {
               Subscription
             </span>
           </div>
- 
-          {/* Consultation CTA */}
-          <div className="flex items-center space-x-4">
-            <button
-              onClick={() => scrollTo("contact")}
-              id="cta-nav"
-              className="btn-3d-glass text-white font-bold text-xs px-6 py-3 rounded-full hover:-translate-y-0.5 transition-all duration-200 shadow-md active:translate-y-0 flex items-center space-x-2 cursor-pointer whitespace-nowrap"
-            >
-              <span>무료 상담 신청</span>
-              <ArrowRight className="w-4 h-4" />
-            </button>
+
           </div>
         </div>
       </header>
