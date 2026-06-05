@@ -1,0 +1,6 @@
+{
+  "name": "BIG SCALE",
+  "description": "BIG SCALE: Premium design subscription service for modern brands. Graphic design, branding, marketing, and AI design consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
