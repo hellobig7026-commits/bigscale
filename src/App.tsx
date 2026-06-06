@@ -439,7 +439,6 @@ export default function App() {
           </div>
 
           </div>
-        </div>
       </header>
  
       {/* HERO SECTION */}
